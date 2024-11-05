@@ -3,3 +3,9 @@
 Competitive 4v4 PASS Time plugins, configs, and more.
 
 [Development Plans](https://miro.com/app/board/uXjVKaLa06s=/?share_link_id=145609750167)
+
+***
+
+Related Repositories:\
+[RGL.gg](https://github.com/RGLgg) - NATF2 league; we rely on their configs for ours to work\
+[more.tf](https://github.com/calisirmori/more.tf) - Log parser website that supports 4v4 PASS Time
